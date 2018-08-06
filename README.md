@@ -1,4 +1,4 @@
-# csc648-team11
+# Cleansweep - Environmental Issue Reporting
 
 This project was created with a group of six members in a Senior Capstone style course in Spring '18.  The general idea was to create a website that people could report any environmental/maintenance issues to be seen by city workers to fix.  Over the course of the semester my group implemented the website with these features:
 
